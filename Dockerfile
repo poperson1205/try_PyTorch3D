@@ -29,6 +29,7 @@ RUN /bin/bash -c ". activate pytorch3d && \
     scikit-image \
     matplotlib \
     imageio \
+    pathio \
     black \
     isort \
     flake8 \
